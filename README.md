@@ -1,2 +1,2 @@
 # Dataset-exploration
-Exploration of data sources provided 
+Exploration and cleaning of the data sources provided 
